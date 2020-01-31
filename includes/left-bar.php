@@ -37,13 +37,13 @@
 					<h2 class="panel-title">Service Categories</h2>
 				</div>
 				<div class="list-group">
-				  <a href="stage.php" class="list-group-item btn1">Wedding Stage</a>
-				  <a href="car.php" class="list-group-item btn1">Car Decoration</a>
+				  <a href="venue.php" class="list-group-item btn1">Venue Selection</a>
 				  <a href="gate.php" class="list-group-item btn1">Gate Decoration</a>
-				  <a href="reception.php" class="list-group-item btn1">Reception Party</a>
+				  <a href="car.php" class="list-group-item btn1">Car Rent</a>
+				  <a href="decoration.php" class="list-group-item btn1">Decoration</a>
 				  <a href="card.php" class="list-group-item btn1">Invitation Card</a>
-				  <a href="dress.php" class="list-group-item btn1">Wedding Dress</a>
-				  <a href="parlour.php" class="list-group-item btn1">Parlour</a>
+				  <a href="dress.php" class="list-group-item btn1">Costume</a>
+				  <a href="parlour.php" class="list-group-item btn1">Beauty Parlour</a>
 				</div>
 			</div>	
 		</div>

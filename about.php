@@ -7,9 +7,7 @@
 		<br/><br/><br/><br/><br/>
 		
         <div class="row centered-form">
-			When husband-and-wife team Carley Roney and David Liu cofounded The Knot, they had one mission in mind – to help other couples easily navigate every wedding planning detail, both big and small. After all, they've learned these lessons the hard way planning their own wedding (hint: make sure the AC works if you’re getting married on a rooftop in July!). Combine a whirlwind engagement, an unfamiliar city and an interracial couple and forget it – there was simply no resource with the insight they needed to help them plan. 
-
-Even though their wedding was a blast, Carley and David realized better resources would have made planning their nuptials a lot less stressful. So they vowed to make wedding planning easy and fun for everyone else. For nearly 20 years we’ve helped millions of couples plan amazing, memorable weddings. You’re next!
+			Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     	</div>
 			
     	

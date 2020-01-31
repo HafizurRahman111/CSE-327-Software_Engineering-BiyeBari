@@ -17,7 +17,7 @@
 			echo "<tr><td>Product Name : </td><td><input type='textbox' style='color:black;margin-top:10px;' name='pname'/></td></tr>";
 			echo "<tr><td>Price :</td><td><input type='textbox' style='color:black;margin-top:10px;' name='price'/></td></tr>";
 			echo "<tr><td>Type :</td><td><select style='color:black;margin-top:10px;' name='type'>";
-				echo "<option value='1'>Wedding Stage</option><option value='2'>Car Decoration</option><option value='3'>Gate Decoration</option><option value='4'>Reception Party</option><option value='5'>Invitation Card</option><option value='6'>Wedding Dress</option><option value='7'>Parlour</option>";
+				echo "<option value='1'>Venue Selection</option><option value='2'>Car Rent</option><option value='3'>Gate Decoration</option><option value='4'>Decoration</option><option value='5'>Invitation Card</option><option value='6'>Costume</option><option value='7'>Beauty Parlour</option>";
 			echo "</select></td></tr>";
 			echo "<tr><td>Item Image :</td><td><input style='color:black;margin-top:10px;' type='file' name='image' size='30'/></td></tr>";
 			echo "</table>";

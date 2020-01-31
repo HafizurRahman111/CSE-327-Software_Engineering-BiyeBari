@@ -11,9 +11,10 @@
   <!--bootstrap core css
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   -->
-  <link rel="stylesheet" href="/happy-wedding/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/BiyeBari.com/css/bootstrap.min.css">
   <!--custom core css-->
-  <link rel="stylesheet" href="/happy-wedding/css/style.css">
+  <link rel="stylesheet" href="/BiyeBari.com/css/style.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
@@ -28,14 +29,14 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span> 
 			  </button>
-			  <p style="font-size:20px; color:red; margin: 12px 12px 12px 12px;">Biye Bari</p>
+			  <p style="font-size:20px; color:red; margin: 12px 12px 12px 12px;">BiyeBari</p>
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			  <ul class="nav navbar-nav">
 				<li class="active"><a href="index.php">Home</a></li>
 				<li><a href="about.php">About</a></li>
 				<li><a href="contact.php">Contact Us</a></li> 
-				<li><a href="help.php">Help</a></li> 
+				<li><a href="help.php">FAQ</a></li> 
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right">
 			  <!--Check, if username session is NOT set then this page will jump to login page-->

@@ -4,7 +4,7 @@
 session_start();
 	if(!isset($_SESSION['suname']))
 	{
-			header("Location: http://localhost/happy-wedding/login.php");
+			header("Location: http://localhost/biyebari/login.php");
 	}
 // Include database connection settings
 	include '../config/database.php';

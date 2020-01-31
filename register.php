@@ -15,7 +15,7 @@
 		include 'includes/header.php';
 		if(isset($_SESSION['suname']))
 		{
-			header("Location: http://localhost/happy-wedding/index.php");
+			header("Location: http://localhost/biyebari/index.php");
 		}
 		include 'includes/left-bar.php';
 ?>
@@ -27,7 +27,7 @@
         <div class="col-xs-12 col-sm-8 col-md-4 col-sm-offset-2 col-md-offset-4">
         	<div class="panel panel-default">
         		<div class="panel-heading">
-			    		<h3 class="panel-title" style="color:black;font-weight:bold;">Register in Happy Wedding</small></h3>
+			    		<h3 class="panel-title" style="color:black;font-weight:bold;">Register in Biye Bari</small></h3>
 			 			</div>
 			 			<div class="panel-body" style="background-color:#F6DDCC">
 			    		<form role="form" action="user/signupHandler.php" name="reg" onSubmit="return validate()" method="post" enctype="multipart/form-data">

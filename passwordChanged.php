@@ -2,7 +2,7 @@
 		include 'includes/header.php';
 		if(!isset($_SESSION['suname']))
 		{
-			header("Location: http://localhost/happy-wedding/index.php");
+			header("Location: http://localhost/biyebari/index.php");
 		}
 		include 'includes/left-bar.php';
 ?>
