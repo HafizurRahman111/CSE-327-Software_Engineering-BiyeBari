@@ -1,0 +1,7 @@
+<option value='1'>Venue Selection</option>
+<option value='2'>Car Rent</option>
+<option value='3'>Gate Decoration</option>
+<option value='4'>Decoration</option>
+<option value='5'>Invitation Card</option>
+<option value='6'>Costume</option>
+<option value='7'>Beauty Parlour</option>
