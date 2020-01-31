@@ -41,9 +41,24 @@ There are two types of user :
 This web application is developing for specific operating environments. People can use this application with those OS / environments. Program will be operated in the following operating environments for the client and the server
 GUI:
    
-	Windows OS
-	Linux/Unix OS
-	Apple Mac OS
+ 	1. Windows OS
+ 	2. Linux/Unix OS
+ 	3. Apple Mac OS
+    
+    
+                                                 ## Deployment Guideline
+
+   Prerequisite:
+    1. Operating System : Windows 10 , Ubuntu 18.04.1 LTS - Linux 
+    2. Apache 
+    3. MySQL  
+    4. XAMPP ( V3.2.2 ) 
+    5. PHP 
+    6. Bootstrap Framework
+    7. PHP Composer : Sublime
+    8. HTML,CSS : Notepad++ , Sublimetext
+    
+    
 
 
 
