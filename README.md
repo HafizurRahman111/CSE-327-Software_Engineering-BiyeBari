@@ -50,7 +50,7 @@ GUI:
        ##                                           Deployment Guideline
        
 
- Prerequisite:
+#### Prerequisite:
    1. Operating System : Windows 10 , Ubuntu 18.04.1 LTS - Linux 
    2. Apache 
    3. MySQL  
@@ -61,6 +61,17 @@ GUI:
    8. HTML,CSS : Notepad++ , Sublimetext
     
     
+#### Installation steps:  
+   1. At first install the code editor ( Sublime , Notepad++ ) 
+   2. Install XAMPP V3.2.2 
+   3. After installing Open the XAMPP Control Panel. Then, start Apache and MySQL.
+   4. Click Admin of MySQL and then open localhost/phpmyadmin/ in your browser.
+   5. If sql file created before with any others tool then import it. Otherwise click new and create a new database. Make necessary tables under that database.
+   6. Then arrange all files in a folder ( Images,HTML,CSS,PHP etc. ) and the folders name will be same as database name.
+   7. Copy that folders and go where XAMPP was installed. Then go to htdocs folder and paste the copied folder.
+   8. Finally Run the application on the browser using : 
+           localhost/……./……
+           localhost/(folder name)/(file name with extension 
 
 
 
